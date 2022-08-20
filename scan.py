@@ -1,6 +1,5 @@
 # Created By: Denis Germano[ManinhuGuitar]
 
-import os
 import sys
 import socket
 import pyfiglet
