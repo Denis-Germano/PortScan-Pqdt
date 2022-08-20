@@ -36,4 +36,4 @@ if len(sys.argv) == 4:
             sys.exit()
 
 else:
-    print(f"\033[4;33;40mForma de uso:\033[m python3 {sys.argv[0]} <ip>")
+    print(f"\033[4;33;40mForma de uso:\033[m python3 {sys.argv[0]} <ip> <start port> <end port>")
